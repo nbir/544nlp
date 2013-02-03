@@ -45,7 +45,7 @@ Thumbs.db
 
 # Data files and folders #
 ####################
-data/train/
-data/dev/
-data/test/
-data/out/
+/data/train/
+/data/dev/
+/data/test/
+/data/out/
