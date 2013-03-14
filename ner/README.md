@@ -1,4 +1,4 @@
-# CSCI-544 Natural Language Processing
+# named entiry recognizer [`github`](https://github.com/nibirbora/544nlp/tree/master/ner)
 
 
 CSCI-544 Natural Language Processing
@@ -15,26 +15,20 @@ This repository is a collection of scripts used for assignments and/or class pro
 * [Nibir Bora](http://nibir.me/) | <nbora@usc.edu>
 
 
-## List of scripts/projects/assignments
+## How to run
 
-1. TODO
+The scripts can be sun using the command:
+	
+	python run.py [-train | -test | -eval]
 
----
-#### License
+Description of each directive:
 
-Copyright (c) 2013 Nibir Bora.
+1. `-train` - trains the model.
+2. `-test` - generates predictions for test file.
+3. `-eval` - evaluates using the perl script and dislays results on console.
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this work except in compliance with the License.
-You may obtain a copy of the License below, or at:
+The location of test/train files and folsers should be made in the `settings.py` file. Necessary comments are made there.
 
-[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 
 ---
 	
