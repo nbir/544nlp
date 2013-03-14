@@ -17,8 +17,8 @@ This repository is a collection of scripts used for assignments and/or class pro
 
 ## List of scripts/projects/assignments
 
-1. `/ner/` - Named Entity Recognizer
-2. `/cluster/` - Web Page Clustering of Ambiguous Names
+1. [`/ner/`](https://github.com/nibirbora/544nlp/tree/master/ner) - Named Entity Recognizer
+2. [`/cluster/`](https://github.com/nibirbora/544nlp/tree/master/cluster) - Web Page Clustering of Ambiguous Names
 
 ---
 #### License

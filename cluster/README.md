@@ -1,4 +1,4 @@
-# named entiry recognizer [`github`](https://github.com/nibirbora/544nlp/tree/master/ner)
+# web page clustering of ambiguous names [`github`](https://github.com/nibirbora/544nlp/tree/master/cluster)
 
 
 CSCI-544 Natural Language Processing
@@ -29,6 +29,11 @@ Description of each directive:
 
 The location of test/train files and folsers should be made in the `settings.py` file. Necessary comments are made there.
 
+
+---
+### Requirements
+
+	nltk
 
 ---
 	
