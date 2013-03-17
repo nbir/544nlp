@@ -1,0 +1,5 @@
+numpy
+scipy
+nltk
+skikit-learn
+anyjson

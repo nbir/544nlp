@@ -19,21 +19,22 @@ This repository is a collection of scripts used for assignments and/or class pro
 
 The scripts can be sun using the command:
 	
-	python run.py [-train | -test | -eval]
+	python run.py -r all
 
-Description of each directive:
+or
 
-1. `-train` - trains the model.
-2. `-test` - generates predictions for test file.
-3. `-eval` - evaluates using the perl script and dislays results on console.
+	python run.py -run all
 
-The location of test/train files and folsers should be made in the `settings.py` file. Necessary comments are made there.
-
+Gold standars `xml` files should be placed in `data/<data_folder>/gold/` and html webpages should be placed in `data/<data_folder>/webpages/`.
 
 ---
 ### Requirements
 
+	numpy
+	scipy
 	nltk
+	skikit-learn
+	anyjson
 
 ---
 	
