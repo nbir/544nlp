@@ -19,6 +19,8 @@ This repository is a collection of scripts used for assignments and/or class pro
 
 1. [`/ner/`](https://github.com/nibirbora/544nlp/tree/master/ner) - Named Entity Recognizer
 2. [`/cluster/`](https://github.com/nibirbora/544nlp/tree/master/cluster) - Web Page Clustering of Ambiguous Names
+2. [`/sentiment/`](https://github.com/nibirbora/544nlp/tree/master/sentiment) - Course Project
+
 
 ---
 #### License

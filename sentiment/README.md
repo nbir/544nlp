@@ -26,7 +26,6 @@ or
 	python run.py --run all
 
 
----
 ### Requirements
 
 	numpy
