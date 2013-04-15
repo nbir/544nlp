@@ -23,9 +23,8 @@ The scripts can be sun using the command:
 
 or
 
-	python run.py -run all
+	python run.py --run all
 
-Gold standars `xml` files should be placed in `data/<data_folder>/gold/` and html webpages should be placed in `data/<data_folder>/webpages/`.
 
 ---
 ### Requirements
